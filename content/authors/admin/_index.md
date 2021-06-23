@@ -70,8 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research expertise is on algorithms of Symbolic Computation (the automation of exact symbolic mathematics) and their application in Computer Algebra Systems (CAS) and Mathematical software. In particular, algorithms for quadratic forms over global fields.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am further interested in the design, analysis and implementation of efficient algorithms and models for solving computational problems arising in computer science and engineering. By applying rigorous mathematical methods combined with machine learning and neural network techniques, with efficient engineering to acheive results of both theoretical and practical significance.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
