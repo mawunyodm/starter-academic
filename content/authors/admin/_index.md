@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computational Mathematics
+    institution: University of Silesia in Katowice, Poland
+    year: 2021
+  - course: MSc in Mathematical Engineering
+    institution: University of L'Aquila, Italy
+    year: 2017
+  - course: BSc in Mathematics
+    institution: Kwame Nkrumah University of Science and Technology, Ghana
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
