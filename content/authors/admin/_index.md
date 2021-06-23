@@ -27,6 +27,7 @@ education:
   courses:
   - course: PhD in Computational Mathematics
     institution: University of Silesia in Katowice, Poland
+    institution: Technical University of Dortmund, Germany
     year: 2021
   - course: MSc in Mathematical Engineering
     institution: University of L'Aquila, Italy
