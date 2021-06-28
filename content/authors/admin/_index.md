@@ -6,21 +6,26 @@ title: Mawunyo Kofi Darkey-Mensah
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Condidate in Computational Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Silesia
-  url: https://www.stanford.edu/
+- name: University of Silesia in Katowice
+  url: http://english.us.edu.pl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include algorithms for quadratic forms over global function fields.
 
 # Interests to show in About widget
 interests:
+- Computational Cummutative Algebra
+- Symbolic Computing
+- Mathematical Modelling in Engineering
+- Network Optimization
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Neural Network and Deep Learning
+- Information Technology
 
 # Education to show in About widget
 education:
